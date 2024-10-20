@@ -1,0 +1,10 @@
+this is version 1 of my project.
+
+this is the first change which is added to the file.
+
+changed by Prashant.
+
+
+added something.
+
+modified the file to check the username in the git logs.

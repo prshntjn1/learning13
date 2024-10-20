@@ -1,0 +1,24 @@
+1. git config --global user.name "Prashant Jain"
+2. git config --global user.email "online.prashantjain@gmail.com"
+3. git config --list
+4. git config user.name
+5. git config user.email
+
+
+6. git status
+7. git init
+8. git add --a    // git add first.txt [adds only one file to stage]
+9. git commit -m "Initial Commit"
+10. git log
+11. rm -rf .git   //deletes .git folder
+
+
+12. git clone https://github.com/tensorflow/tensorflow.git
+
+13. git diff
+14. git diff --staged
+15. git commit -a -m "Direct Commit"
+
+16. git rm third.txt  // remove the file third.txt and put it in the staging area as well.
+17. git mv first.txt first_renamed.txt // rename the file and add it in the staging area as well
+18. git rm --cached db.accdb // to untrack a file
